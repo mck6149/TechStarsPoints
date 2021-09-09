@@ -1,0 +1,14 @@
+{
+  "name": "techstars-points",
+  "version": "1.0.0",
+  "description": "Fall 2021 Hackathon Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fall 2021 TechStars",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
