@@ -17,7 +17,7 @@ let podium = function(name1, name2, name3){
   
   	// build podium from top down.
  	var podium = "";
-  	podium += "  " + pad + name1 + "\n"; 				 
+  	podium += "   " + pad + name1 + "\n"; 				 
   	podium += "  " + pad + podiumTop + "\n"; 	
   	podium += " " + name2 + " |" + pad + "|\n"; 			
   	podium += podiumTop + "|" + pad + "|\n";		
